@@ -44,7 +44,7 @@ WebUI.setText(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/input_Olvida
 
 WebUI.click(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/input_Introduce tu contrasea_signInSubmit'))
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.closeBrowser()
 

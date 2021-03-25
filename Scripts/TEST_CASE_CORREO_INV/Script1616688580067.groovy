@@ -35,5 +35,7 @@ WebUI.click(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/input_Escriba 
 
 WebUI.verifyElementPresent(findTestObject('AmazonFail/Page_Amazon Iniciar sesin/h4_Se produjo un problema'), 0)
 
+WebUI.delay(2)
+
 WebUI.closeBrowser()
 

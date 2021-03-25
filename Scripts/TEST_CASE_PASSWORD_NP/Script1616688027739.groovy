@@ -48,5 +48,7 @@ WebUI.click(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/input_Introduc
 
 WebUI.verifyElementPresent(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/div_Introduce tu contrasea'), 0)
 
+WebUI.delay(2)
+
 WebUI.closeBrowser()
 

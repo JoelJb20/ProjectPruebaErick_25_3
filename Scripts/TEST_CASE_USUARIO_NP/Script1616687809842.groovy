@@ -35,5 +35,7 @@ WebUI.click(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/input_Escriba 
 WebUI.verifyElementPresent(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/div_Escriba su correo electrnico o su nmero de telfono mvil'), 
     0)
 
+WebUI.delay(2)
+
 WebUI.closeBrowser()
 
