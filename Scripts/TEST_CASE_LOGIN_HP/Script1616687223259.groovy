@@ -44,7 +44,11 @@ WebUI.setText(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/input_Olvida
 
 WebUI.click(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/input_Introduce tu contrasea_signInSubmit'))
 
-WebUI.delay(2)
+WebUI.delay(3)
+
+//PRUEBA DE QUE SE ESTA SUBIENDO A GIT CORRECTAMENTE.
 
 WebUI.closeBrowser()
+
+
 
