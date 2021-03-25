@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TEST_CASE_USUARIO_NP
+SERA EL TEST CASE QUE PRUEBA EL MENSAJE
+DE USUARIO NO PROPORCIONADO</description>
+   <name>TEST_CASE_USUARIO_NP</name>
+   <tag>NO PROPORCIONADO</tag>
+   <comment></comment>
+   <testCaseGuid>df3e0329-4eb5-48aa-b2fc-acf04a8b196a</testCaseGuid>
+</TestCaseEntity>

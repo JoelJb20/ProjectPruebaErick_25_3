@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>NOS DIRA QUE PASA CUANDO EL CORREO NO ES VALIDO</description>
+   <name>TEST_CASE_CORREO_INV</name>
+   <tag>INVALIDO</tag>
+   <comment></comment>
+   <testCaseGuid>15f6b35e-e9f2-4773-95c6-ccecdeacb7fe</testCaseGuid>
+</TestCaseEntity>

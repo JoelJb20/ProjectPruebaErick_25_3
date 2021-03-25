@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TEST_CASE_LOGIN_HP
+ESTE LOGIN SE ENCARGARA DE HACER EL LOGIN CORRECTAMENTE CON LOS DATOS CORRECTOS.</description>
+   <name>TEST_CASE_LOGIN_HP</name>
+   <tag>HAPPY PATH</tag>
+   <comment></comment>
+   <testCaseGuid>db4d77de-dbea-4e4b-8c97-3f5ffb3260fb</testCaseGuid>
+</TestCaseEntity>

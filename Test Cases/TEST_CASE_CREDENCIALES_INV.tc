@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TEST_CASE_CREDENCIALES_INV
+NOS DIRA QUE PASA SI LAS CREDENCIALES
+NO SON VALIDAS</description>
+   <name>TEST_CASE_CREDENCIALES_INV</name>
+   <tag>INVALIDAS</tag>
+   <comment></comment>
+   <testCaseGuid>fcbdec2d-437f-49cb-b170-61e8d6c085bf</testCaseGuid>
+</TestCaseEntity>
