@@ -30,6 +30,9 @@ WebUI.verifyElementPresent(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin
 
 WebUI.click(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/input_Direccin de correo electrnico o nmero de telfono mvil_email'))
 
+WebUI.setText(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/input_Direccin de correo electrnico o nmero de telfono mvil_email'), 
+    GlobalVariable.USERNAME)
+
 WebUI.click(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/input_Escriba su correo electrnico o su nmero de telfono mvil_continue'))
 
 WebUI.verifyElementPresent(findTestObject('AmazonLogin/Page_Amazon Iniciar sesin/div_Escriba su correo electrnico o su nmero de telfono mvil'), 
